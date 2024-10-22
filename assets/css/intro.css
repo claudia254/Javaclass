@@ -1,0 +1,55 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: monospace;
+}
+th,td{
+    border: 2px solid blue;
+    padding: 15px;
+}
+
+
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: forestgreen;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    background-color: black;
+}
+.cars{
+    background-color: forestgreen;
+    padding: 20px;
+    margin: 20px;
+}
+#cow{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+body{
+    font-family: sans-serif;
+    background-color: forestgreen;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    color: blue;
+}
+button{
+    background-color: aliceblue;
+    color: brown;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
